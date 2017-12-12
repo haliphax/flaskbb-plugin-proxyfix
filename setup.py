@@ -1,4 +1,4 @@
-'Adds the Werzeug ProxyFix middleware to FlaskBB.'
+'Adds the Werzeug ProxyFix middleware to FlaskBB'
 
 from setuptools import setup
 
