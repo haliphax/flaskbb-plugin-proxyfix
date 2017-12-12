@@ -1,5 +1,6 @@
 'Entry point for flaskbb-plugin-proxyfix'
 
+# 3rd party
 from werkzeug.contrib.fixers import ProxyFix
 
 
